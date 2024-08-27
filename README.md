@@ -1,4 +1,4 @@
-# CyberStoreDraft
+# CyberStore
 
 Vue.js Web App Practise
 
